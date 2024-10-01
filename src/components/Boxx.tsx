@@ -8,7 +8,7 @@ const Boxx = () => {
           No awkward bot <span className='text-gray-400'>joining your meetings.</span>
         </h3>
         <h3 className='text-[1.2rem] text-center mt-1 md:text-2xl'>
-          Won't slow your computer <span className='text-gray-400'>and has unlimited storage.</span>
+        Won&apos;t slow your computer <span className='text-gray-400'>and has unlimited storage.</span>
         </h3>
         <h3 className='text-[1.2rem] text-center mt-1 md:text-2xl'>
           Data encrypted <span className='text-gray-400'>and stored in the Limitless Confidential Cloud.</span>

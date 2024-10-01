@@ -1,9 +1,7 @@
 import Hero from "@/components/Hero";
 import Nav from "./Nav/page";
 import Box from "@/components/Box";
-import { AnimatedListItem } from "@/components/ui/animated-list";
 import { AnimatedListDemo } from "./sample/Animated";
-import { Scroll } from "lucide-react";
 import SparklesText from "@/components/ui/sparkles-text";
 import Meeting from "@/components/Meeting";
 import Prep from "@/components/Prep";
