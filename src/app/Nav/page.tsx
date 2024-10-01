@@ -24,7 +24,7 @@ const Nav = () => {
   }, []);
 
   return (
-    <div className={` fixed flex items-center justify-between w-full h-[60px] p-4 transition-all duration-300 ${isScrolled ? 'bg-white bg-opacity-70 backdrop-blur-md' : 'bg-transparent'}`}>
+    <div className={` z-[10] fixed flex items-center justify-between w-full h-[60px] p-4 transition-all duration-300 ${isScrolled ? 'bg-white bg-opacity-70 backdrop-blur-md' : 'bg-transparent'}`}>
       <header className="flex items-center">
         <svg
           className="w-[20px] h-[20px] mr-2"
